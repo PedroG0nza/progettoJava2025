@@ -3,8 +3,8 @@
   <groupId>progettoJava2025</groupId>
   <artifactId>progettoJava2025</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <propretiespropreties>
+  <properties>
 	<maven.compliter.source>1.7</maven.compliter.source> 
 	<maven.compliter.target>1.7</maven.compliter.target> 
-  </propretiespropreties>
+  </properties>
 </project>
