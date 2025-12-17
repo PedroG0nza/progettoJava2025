@@ -5,8 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <propretiespropreties>
-	<maven.compliter.source>1.7 </maven.compliter.source> 
-	<maven.compliter.target>1.7 </maven.compliter.target> 
+	<maven.compliter.source>1.7</maven.compliter.source> 
+	<maven.compliter.target>1.7</maven.compliter.target> 
 
   </propretiespropreties>
 </project>
