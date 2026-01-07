@@ -25,10 +25,6 @@ class TestCalcolatrice {
 		calcolatrice a = new calcolatrice();
 		int  c = a.Sott(10,6);
 		assertEquals(4,c);
-
-		
-		
-	}
-		
+	}	
 	
 }

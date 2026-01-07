@@ -2,6 +2,7 @@ package progettoJava2025;
 
 public class calcolatrice 
 {
+
 	public int Somma (int val1 ,int val2) 
 	{
 	//scrivi il risultato
@@ -18,4 +19,7 @@ public class calcolatrice
 		int valore = va11-val2;
 		return valore;
 	}
+
+	
+	
 }
