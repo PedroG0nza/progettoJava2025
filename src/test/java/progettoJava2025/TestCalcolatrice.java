@@ -17,7 +17,7 @@ class TestCalcolatrice {
 	void testSommaNegativo() {
 		calcolatrice a = new calcolatrice();
 		int risultato =a.Somma(2,-3);
-		assertEquals(-1,risultato);
+		assertEquals(-1,risultato); 
 	}
 	@Test
 	void testSottrazione() 
